@@ -42,5 +42,4 @@ Craftkeep stores project data in the project folder on disk. If the app catches 
 
 For now, issues are tracked through the GitHub repo:
 
-https://github.com/signalnode47/rtrn-desktop/issues
-
+https://github.com/signalnode47/Craftkeep/issues
