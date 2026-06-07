@@ -29,6 +29,10 @@ Not fully yet. Craftkeep is currently focused on music projects, but broader cre
 
 Not yet. The current alpha is local-first. You can back up your project folder with your normal backup tools, external drive, or cloud folder provider.
 
+### Is there a mobile app?
+
+Not yet. A mobile app is part of the future plan, including sync so you can access Craftkeep across devices.
+
 ## Current Alpha Notes
 
 Craftkeep is still in alpha. Expect fast product changes while the core workflows are shaped:
