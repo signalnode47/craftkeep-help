@@ -23,7 +23,7 @@ Mock Project is bundled demo data. Use it to explore Craftkeep without risking r
 
 ### Can I use Craftkeep for more than music?
 
-Yes. Craftkeep is being shaped around independent creatives more broadly, including musicians, photographers, videographers, producers, designers, and other project-based creative work.
+Not fully yet. Craftkeep is currently focused on music projects, but broader creative support is part of the future plan.
 
 ### Does Craftkeep sync to the cloud?
 
@@ -38,4 +38,3 @@ Craftkeep is still in alpha. Expect fast product changes while the core workflow
 - Tasks, goals, releases, campaigns, contacts, and analytics
 - Settings and app customization
 - Help and documentation
-
